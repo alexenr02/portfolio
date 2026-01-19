@@ -14,7 +14,7 @@
 - **[File Guide](docs/FILE_GUIDE.md)** - How to use the documentation
 - **[Update Summary](docs/PLAN_UPDATE_SUMMARY.md)** - Architecture audit and updates
 
-### 📄 Project
+### Project
 - **[License](LICENSE)** - Project license
 
 ---
